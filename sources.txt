@@ -1,0 +1,24 @@
+Freely Available ( public records, google, etc)
+Images, text, profiles, public records, videos
+Data dumps (pastebin, ghostbin, github)
+
+
+IP Space enumeration
+    -Shodan
+    -Hurricane electric
+Subdomain enumeration
+    -DNS Dumper
+    -CRT.sh
+    -Lazy Recon
+Shodan
+Google dorking
+    -Google hacking database
+    -EXT filter shows documents
+    -"site" filter
+    -"-site" filter
+Github code search
+Linkedin
+Wireless
+
+https://www.sec.gov/sec-data-resources
+
